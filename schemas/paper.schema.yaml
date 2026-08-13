@@ -1,0 +1,39 @@
+type: paper_record
+required:
+  - paper_id
+  - title
+  - source_collection
+  - authors
+  - year
+  - identifiers
+  - provenance
+fields:
+  paper_id: string
+  title: string
+  abstract: string
+  authors: list[string]
+  year: integer
+  journal: string
+  source_collection: string
+  center: string
+  pi_candidates: list[string]
+  pathogens: list[string]
+  viruses: list[string]
+  assay_types: list[string]
+  identifiers:
+    pmid: string
+    pmcid: string
+    doi: string
+  links:
+    pubmed: string
+    pmc: string
+    publisher: string
+  extraction_status:
+    full_text_status: string
+    dataset_scan_status: string
+    dataset_validation_status: string
+    resource_scan_status: string
+  provenance:
+    source_query: string
+    source_url: string
+    imported_at: string

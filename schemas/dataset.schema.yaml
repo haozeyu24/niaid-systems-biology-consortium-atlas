@@ -1,0 +1,33 @@
+type: dataset_record
+required:
+  - dataset_id
+  - source_paper_id
+  - repository
+  - title
+  - provenance
+fields:
+  dataset_id: string
+  source_paper_id: string
+  center: string
+  pi_candidates: list[string]
+  repository: string
+  accession: string
+  title: string
+  assay_type: string
+  host_system: string
+  sample_type: string
+  pathogen: string
+  virus: string
+  raw_data_available: boolean
+  processed_data_available: boolean
+  code_available: boolean
+  reuse_value: string
+  pathway_relevance: string
+  access_friction: string
+  links:
+    landing_page: string
+    download: string
+  provenance:
+    extracted_from_paper: string
+    extracted_at: string
+    extraction_method: string

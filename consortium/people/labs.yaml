@@ -1,0 +1,41 @@
+source_urls:
+  - https://www.niaid.nih.gov/research/systems-biology-consortium
+  - https://hpmi.ucsf.edu/projects-and-cores
+last_checked: 2026-08-13
+labs:
+  - lab_head: Adolfo Garcia-Sastre
+    center: SYBIL
+    institution: Icahn School of Medicine at Mount Sinai
+    focus: SARS-CoV systems biology
+  - lab_head: Sumit Chanda
+    center: SYBIL
+    institution: Icahn School of Medicine at Mount Sinai
+    focus: viral host factors and systems virology
+  - lab_head: Richard Wunderink
+    center: SCRIPT
+    institution: Northwestern University
+    focus: pneumonia systems biology
+  - lab_head: Kristian Andersen
+    center: CViSB
+    institution: Scripps Research
+    focus: viral systems biology
+  - lab_head: Nevan Krogan
+    center: HPMI
+    institution: UCSF
+    focus: host-pathogen interaction networks
+  - lab_head: Melanie Ott
+    center: HPMI
+    institution: UCSF
+    focus: viral host dependency biology
+  - lab_head: Jeffrey Cox
+    center: HPMI
+    institution: UCSF
+    focus: tuberculosis and host-pathogen biology
+  - lab_head: Michael Glickman
+    center: HPMI
+    institution: UCSF
+    focus: tuberculosis and bacterial pathogenesis
+  - lab_head: Trey Ideker
+    center: HPMI
+    institution: UC San Diego
+    focus: modeling and network integration

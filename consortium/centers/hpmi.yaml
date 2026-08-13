@@ -1,0 +1,38 @@
+name: Host Pathogen Mapping Initiative
+acronym: HPMI
+source_urls:
+  - https://www.niaid.nih.gov/research/systems-biology-consortium
+  - https://hpmi.ucsf.edu/about
+  - https://hpmi.ucsf.edu/projects-and-cores
+last_checked: 2026-08-13
+institution: University of California, San Francisco
+contact_pi: Nevan Krogan
+project_pis:
+  - Nevan Krogan
+  - Jeffrey Cox
+  - Michael Glickman
+  - Melanie Ott
+data_core_pi: Andrej Sali
+technology_core_pis:
+  - Danielle Swaney
+  - Jennifer Doudna
+modeling_core_pi: Trey Ideker
+projects:
+  - title: Identification of host and bacterial pathways that control tuberculosis pathogenesis in humans
+    leads:
+      - Jeffrey Cox
+      - Michael Glickman
+      - Thomas Hawn
+    co_investigators:
+      - Thuong Nguyen
+      - Nevan Krogan
+    domain: bacterial host-pathogen biology
+  - title: Determine clinically relevant host-viral dependency networks for respiratory infections
+    leads:
+      - Nevan Krogan
+      - Melanie Ott
+    co_investigators:
+      - Jeffrey Cox
+      - Jennifer Doudna
+      - Jyoti Batra
+    domain: viral host dependency networks

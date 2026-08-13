@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+tmp/
+build/
+dist/
+papers/fulltext/inventory/oa/
+papers/fulltext/inventory/manual/
+papers/fulltext/inventory/parser_cache/
+papers/fulltext/parsed/pmc_xml/
+papers/sources/current-program/records/
+papers/sources/hpmi/records/
+papers/sources/pi-backlog/records/
+papers/fulltext/parsed/normalized/

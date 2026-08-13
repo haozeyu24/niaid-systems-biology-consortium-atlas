@@ -1,0 +1,84 @@
+name: NIAID Systems Biology Consortium for Infectious Diseases
+source_url: https://www.niaid.nih.gov/research/systems-biology-consortium
+source_type: official_program_page
+last_checked: 2026-08-13
+description: >
+  NIAID/DMID consortium of interdisciplinary centers studying systems-wide
+  host-pathogen molecular interaction networks during infection.
+centers:
+  - acronym: SYBIL
+    institution: Icahn School of Medicine at Mount Sinai
+    name: SARS-CoV adaptations through a Systems Biology Lens
+    contact_pi: Adolfo Garcia-Sastre
+    project_pis:
+      - Adolfo Garcia-Sastre
+      - Sumit Chanda
+      - Michael Schotsaert
+      - Rafael Medina
+    admin_core_pis:
+      - Adolfo Garcia-Sastre
+      - Sumit Chanda
+    data_core_pi: Lars Pache
+    technology_core_pi: Nevan Krogan
+    modeling_core_pi: Rafick Sekaly
+  - acronym: SCRIPT
+    institution: Northwestern University
+    name: Successful Clinical Response in Pneumonia Therapy Systems Biology Center
+    contact_pi: Richard Wunderink
+    project_pis:
+      - Richard Wunderink
+      - Alan Hauser
+    admin_core_pis:
+      - Richard Wunderink
+    data_core_pi: Theresa Walunas
+    technology_core_pi: Benjamin Singer
+    modeling_core_pis:
+      - Alexander Misharin
+      - Thomas Stoeger
+  - acronym: CViSB
+    institution: Scripps Research
+    name: Consortium for Viral Systems Biology
+    contact_pi: Kristian Andersen
+    project_pis:
+      - Kristian Andersen
+      - Robert Garry
+      - Ryan McNamara
+      - Donald S Grant
+    admin_core_pis:
+      - Kristian Andersen
+    data_core_pi: Karthik Gangavarapu
+    technology_core_pi: Bryan Briney
+    modeling_core_pis:
+      - Douglas Lauffenburger
+      - Marc Suchard
+  - acronym: UCLA-Persistent-BSI
+    institution: University of California, Los Angeles
+    name: Systems Epigenomics of Persistent Bloodstream Infection
+    contact_pi: Michael Yeaman
+    project_pis:
+      - Michael Yeaman
+      - Scott Filler
+      - Elaine Reed
+      - Melissa Johnson
+    admin_core_pis:
+      - Michael Yeaman
+    data_core_pi: David Gjertson
+    technology_core_pi: Monica Cappelletti
+    modeling_core_pi: Aaron Meyer
+  - acronym: HPMI
+    institution: University of California, San Francisco
+    name: Host Pathogen Mapping Initiative
+    contact_pi: Nevan Krogan
+    project_pis:
+      - Nevan Krogan
+      - Jeffrey Cox
+      - Michael Glickman
+      - Melanie Ott
+    admin_core_pis:
+      - Nevan Krogan
+      - Jeffrey Cox
+    data_core_pi: Andrej Sali
+    technology_core_pis:
+      - Danielle Swaney
+      - Jennifer Doudna
+    modeling_core_pi: Trey Ideker

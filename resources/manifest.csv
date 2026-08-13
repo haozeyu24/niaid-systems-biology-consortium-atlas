@@ -1,0 +1,49 @@
+resource_id,source_paper_id,resource_type,name,url,notes,status
+pmid-42013838-figshare-6f1555be86,pmid-42013838,Figshare,Figshare resource for Systematic discovery of pro- and anti-HIV host factors in primary human CD4+ T c,figshare.com/articles/dataset/Tabula_Sapiens_release_1_0/14267219,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-32353859-github-b63dc9016b,pmid-32353859,GitHub,mist,github.com/kroganlab/mist,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-32353859-github-d7fdef76de,pmid-32353859,GitHub,COVID19,github.com/momeara/BioChemPantry/tree/master/vignette/COVID19,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-32511329-github-518da5649e,pmid-32511329,GitHub,COVID19,github.com/momeara/BioChemPantry/vignette/COVID19,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-33060197-github-9a71538a9c,pmid-33060197,GitHub,TOGA,github.com/hillerlab/TOGA,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-33060197-github-b63dc9016b,pmid-33060197,GitHub,mist,github.com/kroganlab/mist,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-33429418-github-92891c3d8a,pmid-33429418,GitHub,FastCAR,github.com/LungCellAtlas/FastCAR,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-33429418-github-1d24a8e74c,pmid-33429418,GitHub,2020_Grant,github.com/NUPulmonary/2020_Grant,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-33429418-github-48cbb710d3,pmid-33429418,GitHub,k_means_Figure.R,github.com/NUPulmonary/utils/blob/master/R/k_means_Figure.R,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-33654293-github-ed3f65f2da,pmid-33654293,GitHub,harmony-pytorch,github.com/lilab-bcb/harmony-pytorch,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-33654293-github-1e2e25f09a,pmid-33654293,GitHub,diffxpy,github.com/theislab/diffxpy,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-33654293-github-1497006e4c,pmid-33654293,GitHub,signac,github.com/timoast/signac,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34013269-github-b63dc9016b,pmid-34013269,GitHub,mist,github.com/kroganlab/mist,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34031651-github-b63dc9016b,pmid-34031651,GitHub,mist,github.com/kroganlab/mist,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34171302-github-59583cb2dd,pmid-34171302,GitHub,Gene_Set_Enrichment_Pipeline,github.com/DavidPierreEnard/Gene_Set_Enrichment_Pipeline,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34171302-github-d9935f4d3d,pmid-34171302,GitHub,hapbin,github.com/evotools/hapbin,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34171302-github-d6df79ef8f,pmid-34171302,GitHub,selscan,github.com/szpiech/selscan,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34731594-github-814bca2642,pmid-34731594,GitHub,2021_Koch,github.com/NUPulmonary/2021_Koch,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34937051-github-b058886254,pmid-34937051,GitHub,mg2sc,github.com/julianeweller/mg2sc,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34981043-github-c90c91298a,pmid-34981043,GitHub,Delta-analysis,github.com/COG-UK/Delta-analysis,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34981043-github-f087ea4c31,pmid-34981043,GitHub,beastgenpy,github.com/ViralVerity/beastgenpy,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34981043-github-7619762e1e,pmid-34981043,GitHub,scorpio,github.com/cov-lineages/scorpio,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34981043-github-f23df37f23,pmid-34981043,GitHub,owid-covid-data.csv,github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34981043-github-4028d8329f,pmid-34981043,GitHub,Delta-Statistical-analysis-share,github.com/sumalibajaj/Delta-Statistical-analysis-share,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34981069-github-c90c91298a,pmid-34981069,GitHub,Delta-analysis,github.com/COG-UK/Delta-analysis,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34981069-github-f087ea4c31,pmid-34981069,GitHub,beastgenpy,github.com/ViralVerity/beastgenpy,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34981069-github-7619762e1e,pmid-34981069,GitHub,scorpio,github.com/cov-lineages/scorpio,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34981069-github-f23df37f23,pmid-34981069,GitHub,owid-covid-data.csv,github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-35018374-github-a0fe967bae,pmid-35018374,GitHub,H522_paper_figures,github.com/GoldfarbLab/H522_paper_figures,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-35018374-github-2eb87a211b,pmid-35018374,GitHub,SIRT5_paper,github.com/mariuswalter/SIRT5_paper,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-35186917-github-2e191faa4e,pmid-35186917,GitHub,BBMap,github.com/BioInfoTools/BBMap,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-35325204-github-45d8861ead,pmid-35325204,GitHub,omicron-selection,github.com/veg/omicron-selection,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-35325204-github-0dce580472,pmid-35325204,GitHub,tn93,github.com/veg/tn93,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-36095012-github-a0fe967bae,pmid-36095012,GitHub,H522_paper_figures,github.com/GoldfarbLab/H522_paper_figures,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-36095012-github-2eb87a211b,pmid-36095012,GitHub,SIRT5_paper,github.com/mariuswalter/SIRT5_paper,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-37000623-github-c4fbf9c70f,pmid-37000623,GitHub,systemsseRology,github.com/LoosC/systemsseRology,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-38168164-github-343dc94186,pmid-38168164,GitHub,RSV-Molecular-Epidemiology,github.com/erg6437/RSV-Molecular-Epidemiology,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-38168164-github-a48626e117,pmid-38168164,GitHub,haphpipe,github.com/gwcbi/haphpipe,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-40579228-github-6210ed4265,pmid-40579228,GitHub,KINference,github.com/bionetslab/KINference,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-40579228-github-1c8ab47b73,pmid-40579228,GitHub,KINference-Evaluation-Scripts,github.com/bionetslab/KINference-Evaluation-Scripts,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-41646792-github-caa220d74f,pmid-41646792,GitHub,hCoCena,github.com/MarieOestreich/hCoCena,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-41646792-github-31e30c0ca6,pmid-41646792,GitHub,2025_AnnaSemenova_Autoantibody,github.com/schillerlab/2025_AnnaSemenova_Autoantibody,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-42134328-github-b63dc9016b,pmid-42134328,GitHub,mist,github.com/kroganlab/mist,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-42258748-github-caa220d74f,pmid-42258748,GitHub,hCoCena,github.com/MarieOestreich/hCoCena,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-42258748-github-31e30c0ca6,pmid-42258748,GitHub,2025_AnnaSemenova_Autoantibody,github.com/schillerlab/2025_AnnaSemenova_Autoantibody,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-34556855-ndex-c2a4cdee03,pmid-34556855,NDEx,NDEx resource for Restriction factor compendium for influenza A virus reveals a mechanism for evas,ndexbio.org/#/network/275bd84e-3d18-11e8-a935-0ac135e8bacf,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-35337019-ndex-3093d21a6d,pmid-35337019,NDEx,NDEx resource for A BioID-Derived Proximity Interactome for SARS-CoV-2 Proteins.,ndexbio.org/viewer/networks/275bd84e-3d18-11e8-a935-0ac135e8bacf,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate
+pmid-36197970-synapse-abdfe870d0,pmid-36197970,Synapse,"Synapse resource for Common and species-specific molecular signatures, networks, and regulators of in",synapse.org/fludynemo,Auto-extracted from normalized full text on 2026-08-13T22:06:45.224342+00:00,candidate

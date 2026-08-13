@@ -1,0 +1,18 @@
+type: resource_record
+required:
+  - resource_id
+  - source_paper_id
+  - resource_type
+  - name
+fields:
+  resource_id: string
+  source_paper_id: string
+  resource_type: string
+  name: string
+  description: string
+  url: string
+  pathogen_scope: list[string]
+  notes: string
+  provenance:
+    extracted_at: string
+    extraction_method: string

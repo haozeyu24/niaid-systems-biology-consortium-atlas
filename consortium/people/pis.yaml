@@ -1,0 +1,126 @@
+source_urls:
+  - https://www.niaid.nih.gov/research/systems-biology-consortium
+  - https://hpmi.ucsf.edu/projects-and-cores
+last_checked: 2026-08-13
+people:
+  - name: Adolfo Garcia-Sastre
+    institution: Icahn School of Medicine at Mount Sinai
+    center: SYBIL
+    roles:
+      - contact_pi
+      - project_pi
+  - name: Sumit Chanda
+    institution: Icahn School of Medicine at Mount Sinai
+    center: SYBIL
+    roles:
+      - project_pi
+      - admin_core_pi
+  - name: Michael Schotsaert
+    institution: Icahn School of Medicine at Mount Sinai
+    center: SYBIL
+    roles:
+      - project_pi
+  - name: Rafael Medina
+    institution: Icahn School of Medicine at Mount Sinai
+    center: SYBIL
+    roles:
+      - project_pi
+  - name: Richard Wunderink
+    institution: Northwestern University
+    center: SCRIPT
+    roles:
+      - contact_pi
+      - project_pi
+      - admin_core_pi
+  - name: Alan Hauser
+    institution: Northwestern University
+    center: SCRIPT
+    roles:
+      - project_pi
+  - name: Kristian Andersen
+    institution: Scripps Research
+    center: CViSB
+    roles:
+      - contact_pi
+      - project_pi
+      - admin_core_pi
+  - name: Robert Garry
+    institution: Scripps Research
+    center: CViSB
+    roles:
+      - project_pi
+  - name: Ryan McNamara
+    institution: Scripps Research
+    center: CViSB
+    roles:
+      - project_pi
+  - name: Donald S Grant
+    institution: Scripps Research
+    center: CViSB
+    roles:
+      - project_pi
+  - name: Michael Yeaman
+    institution: UCLA
+    center: UCLA-Persistent-BSI
+    roles:
+      - contact_pi
+      - project_pi
+      - admin_core_pi
+  - name: Scott Filler
+    institution: UCLA
+    center: UCLA-Persistent-BSI
+    roles:
+      - project_pi
+  - name: Elaine Reed
+    institution: UCLA
+    center: UCLA-Persistent-BSI
+    roles:
+      - project_pi
+  - name: Melissa Johnson
+    institution: UCLA
+    center: UCLA-Persistent-BSI
+    roles:
+      - project_pi
+  - name: Nevan Krogan
+    institution: UCSF
+    center: HPMI
+    roles:
+      - contact_pi
+      - project_pi
+      - admin_core_pi
+  - name: Jeffrey Cox
+    institution: UCSF
+    center: HPMI
+    roles:
+      - project_pi
+      - admin_core_pi
+  - name: Michael Glickman
+    institution: UCSF
+    center: HPMI
+    roles:
+      - project_pi
+  - name: Melanie Ott
+    institution: UCSF
+    center: HPMI
+    roles:
+      - project_pi
+  - name: Andrej Sali
+    institution: UCSF
+    center: HPMI
+    roles:
+      - data_core_pi
+  - name: Danielle Swaney
+    institution: UCSF
+    center: HPMI
+    roles:
+      - technology_core_pi
+  - name: Jennifer Doudna
+    institution: UC Berkeley
+    center: HPMI
+    roles:
+      - technology_core_pi
+  - name: Trey Ideker
+    institution: UC San Diego
+    center: HPMI
+    roles:
+      - modeling_core_pi
