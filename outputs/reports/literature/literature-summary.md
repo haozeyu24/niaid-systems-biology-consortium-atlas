@@ -2,19 +2,19 @@
 
 ## Current State
 
-- Full collection papers: 4870
-- Final corpus candidates: 654
+- Full collection papers: 4871
+- Final corpus candidates: 655
 - PI backlog papers: 4159
 
 ## Source Counts
 
 - pi-backlog: 4159
 - current-program: 576
-- hpmi: 135
+- hpmi: 136
 
 ## Largest Centers In Full Collection
 
-- HPMI: 1674
+- HPMI: 1675
 - SYBIL: 1335
 - CViSB: 775
 - unassigned: 591
